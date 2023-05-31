@@ -1,37 +1,8 @@
 # Tugas Web 1 < Profile > 
 
-[Demo Here](https://max-versteppen.netlify.app/)
-
-## Instalasi
-
-1. Lakukan clone pada repositori ini dengan menggunakan perintah berikut:
-
-```bash
-git clone https://github.com/Code-Knights/tugas-web-1
-```
-
-2. Masuk ke direktori proyek dengan menjalankan perintah:
-
-```bash
-cd <nama proyek>
-```
-
-3. Jalankan perintah berikut untuk menginstal dependensi proyek:
-
-```bash
-npm install
-```
-
-## Menggunakan Tailwind (opsional)
-Jika Anda ingin menggunakan Tailwind CSS, jalankan perintah berikut
-
-```bash
-npm run dev:css
-```
-
-Dengan menjalankan perintah di atas, Tailwind CSS akan dikompilasi dan siap untuk digunakan dalam proyek.
+[Demo Here](file:///C:/tugas-web-1-attagantari/src/Tugaswebatta.html)
 
 ## Author
-[Atta](https://github.com/buryne/)
+[Atta](file:///C:/tugas-web-1-attagantari/src/Tugaswebatta.html)
 
 Happy Coding 🚀
